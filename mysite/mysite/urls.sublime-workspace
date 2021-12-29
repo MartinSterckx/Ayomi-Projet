@@ -1,0 +1,372 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"adre",
+				"adressemail1"
+			],
+			[
+				"ad",
+				"adressemail2"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"centre",
+				"centremedical"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"Centre",
+				"Centre-Val-De-Loire"
+			],
+			[
+				"mysqli_re",
+				"mysqli_real_escape_string"
+			],
+			[
+				"nu",
+				"numeroSS"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"profil",
+				"photoprofil"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"align",
+				"align-self\tproperty"
+			],
+			[
+				"ma",
+				"mark\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/simple-signup/basic-example/mysite/core/views.py",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/simple-signup/basic-example/mysite/settings.py",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/simple-signup/basic-example/mysite/urls.py",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/mysite/connection/template/connection/home.html",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/mysite/mysite/urls.py",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/mysite/mysite/settings.py",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/mysite/register/templates/register/register.html",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/mysite/register/urls.py",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/mysite/register/views.py",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/mysite/register/forms.py",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/mysite/manage.py",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/AyomiProjet/Regiter/template/Regiter/signup.html",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/AyomiProjet/Regiter/views.py",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/AyomiProjet/Regiter/urls.py",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/AyomiProjet/AyomiProjet/urls.py",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/AyomiProjet/AyomiProjet/wsgi.py",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/AyomiProjet/AyomiProjet/settings.py",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/AyomiProjet/userRegistration/__init__.py",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/AyomiProjet/Regiter/static/Regiter/Regiter/style.css",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/AyomiProjet/Regiter/template/Regiter/base.html",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/AyomiProjet/Regiter/template/Regiter/index.html",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/AyomiProjet/Regiter/admin.py",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/AyomiProjet/Regiter/models.py",
+		"/C/Users/Martin/Documents/Travail/Ayomi-Projet/AyomiProjet/register/models.py",
+		"/C/Users/Martin/Downloads/mqttClient/src/ToElasticSearch.java",
+		"/C/Users/Martin/Downloads/mqttClient/src/Subscriber.java",
+		"/C/Users/Martin/Downloads/mqttClient/src/OYO.java",
+		"/C/Users/Martin/Downloads/mqttClient/src/CLIDecoder.java",
+		"/C/wamp64/bin/mysql/mysql8.0.18/my.ini",
+		"/C/Users/Martin/Downloads/mqttClient/src/AdeunisFTD.java",
+		"/C/wamp64/logs/mysql.log",
+		"/C/wamp64/www/Travail/Evaluation/index.php",
+		"/C/wamp64/www/Travail/Heimler/index.php",
+		"/C/wamp64/www/Travail/Heimler/style1.css",
+		"/C/wamp64/www/Travail/Heimler/traitement.php",
+		"/C/wamp64/www/Travail/Heimler/traitement.js",
+		"/C/Users/Martin/Desktop/ex.py",
+		"/C/wamp64/www/Travail/Evaluation/traitement.php",
+		"/C/wamp64/www/Travail/Evaluation/traitement.js",
+		"/C/wamp64/www/Travail/Evaluation/style1.css",
+		"/C/wamp64/www/Travail/Site-MVC/view/admin/CarteApp2.php",
+		"/C/wamp64/www/Travail/Site-MVC/view/admin/liste.php",
+		"/C/Users/Martin/Downloads/PHP-JS.pdf",
+		"/C/wamp64/www/Travail/Site-MVC/view/admin/centre.php",
+		"/C/wamp64/www/Travail/Site-MVC/public/css/style.css",
+		"/C/wamp64/www/Travail/Site-MVC/index.php",
+		"/C/wamp64/www/Travail/Site-MVC/view/admin/addCentre.php",
+		"/C/wamp64/www/Travail/Site-MVC/view/admin/admin.php",
+		"/C/wamp64/www/Travail/Site-MVC/model/admin.php",
+		"/C/wamp64/www/Travail/Site-MVC/controller/admin.php",
+		"/C/wamp64/www/Travail/Site-MVC/public/js/login.js",
+		"/C/wamp64/www/Travail/Site-MVC/public/js/test.js",
+		"/C/wamp64/www/Travail/App/views/addCentre.php",
+		"/C/wamp64/www/Evaluation/style1.css",
+		"/C/wamp64/www/Evaluation/traitement.js",
+		"/C/wamp64/www/Evaluation/index.php",
+		"/C/wamp64/www/Travail/App/views/Auvergne-Rhones-Alpes.php",
+		"/C/wamp64/www/Travail/Site-MVC/model/frontend.php",
+		"/C/wamp64/www/Travail/Site-MVC/view/admin/template.php",
+		"/C/wamp64/www/Travail/Site-MVC/view/admin/ajoutBoitier.php",
+		"/C/wamp64/www/Travail/Site-MVC/controller/medecin.php",
+		"/C/wamp64/www/Travail/Site-MVC/controller/frontend.php",
+		"/C/wamp64/www/Travail/Site-MVC/model/medecin.php",
+		"/C/wamp64/www/Travail/Site-MVC/view/frontend/SAV.php",
+		"/C/wamp64/www/Travail/Site-MVC/view/frontend/menu.php",
+		"/C/wamp64/www/Travail/Site-MVC/view/frontend/template.php",
+		"/C/wamp64/www/Travail/Site-MVC/view/medecin/ajoutPatient.php",
+		"/C/wamp64/www/Travail/App/views/admin.php",
+		"/C/wamp64/www/Travail/App/views/centre.php",
+		"/C/wamp64/www/Travail/App/views/Centre-Val-De-Loire.php",
+		"/C/wamp64/www/Travail/App/views/CarteApp.php",
+		"/C/wamp64/www/Travail/App/views/medecin.php",
+		"/C/Users/Martin/Desktop/HTML_CSS/sujet/style.css",
+		"/C/Users/Martin/Desktop/HTML_CSS/sujet/apropos.html",
+		"/C/Users/Martin/Desktop/HTML_CSS/sujet/series.html",
+		"/C/Users/Martin/Desktop/HTML_CSS/sujet/sujet2.html",
+		"/C/wamp64/www/Travail/App/views/menu.php",
+		"/C/wamp64/www/Travail/App/views/style.css",
+		"/C/wamp64/www/Travail/App/views/Carte.html",
+		"/C/Users/Martin/Desktop/Evaluation_HTML_CSS/main.html",
+		"/C/Users/Martin/Desktop/Evaluation_HTML_CSS/style.css",
+		"/C/wamp64/www/Travail/style.css",
+		"/C/wamp64/www/Travail/Code Carte/style.css",
+		"/C/wamp64/www/Travail/App/views/Normandie.php",
+		"/C/wamp64/www/Travail/App/views/Nouvelle-Aquitaine.php",
+		"/C/wamp64/www/Travail/App/views/Provences-Alpes-Cotes-D'Azur.php",
+		"/C/wamp64/www/Travail/App/views/Occitanie.php",
+		"/C/wamp64/www/Travail/App/views/Pays-de-la-Loire.php",
+		"/C/wamp64/www/Travail/App/views/Ile-de-France.php",
+		"/C/wamp64/www/Travail/App/views/Hauts-de-France.php",
+		"/C/wamp64/www/Travail/App/views/Grand-Est.php",
+		"/C/wamp64/www/Travail/App/views/Bretagne.php",
+		"/C/wamp64/www/Travail/App/views/Bourgogne-Franche-Comté.php",
+		"/C/wamp64/www/Travail/App/views/footer.php",
+		"/C/wamp64/www/Travail/App/views/CGU.php",
+		"/C/wamp64/www/Travail/App/views/login.php",
+		"/C/wamp64/www/Travail/App/views/Corse.php",
+		"/C/wamp64/www/Travail/Code Carte/appinfo.sql",
+		"/C/wamp64/www/Travail/App/appinfo.sql",
+		"/C/wamp64/www/Travail/Code Carte/Centre-Val-De-Loirs.php",
+		"/C/wamp64/www/Travail/Code Carte/Provences-Alpes-Cotes-D'Azur.php",
+		"/C/wamp64/www/Travail/Code Carte/Pays-de-la-Loire.php",
+		"/C/wamp64/www/Travail/Code Carte/Occitanie.php",
+		"/C/wamp64/www/Travail/Code Carte/Nouvelle-Aquitaine.php",
+		"/C/wamp64/www/Travail/Code Carte/Normandie.php",
+		"/C/wamp64/www/Travail/Code Carte/Hauts-de-France.php",
+		"/C/wamp64/www/Travail/Code Carte/Ile-de-France.php",
+		"/C/wamp64/www/Travail/Code Carte/Grand-Est.php",
+		"/C/wamp64/www/Travail/Code Carte/Corse.php",
+		"/C/wamp64/www/Travail/Code Carte/Bretagne.php",
+		"/C/wamp64/www/Travail/Code Carte/Bourgogne-Franche-Comté.php",
+		"/C/wamp64/www/Travail/Code Carte/Auvergne-Rhones-Alpes.php",
+		"/C/wamp64/www/Travail/App/views/SAV.php",
+		"/C/wamp64/www/Travail/App/views/ajoutMedecin.php",
+		"/C/Users/Martin/Desktop/Code Carte/CarteApp.php",
+		"/C/wamp64/www/Travail/Site-php/views/ajoutMedecin.php",
+		"/C/wamp64/www/Travail/formulaires.php",
+		"/C/wamp64/www/Travail/Site-php/views/admin.php",
+		"/C/wamp64/www/Travail/Site-php/views/centre.php",
+		"/C/wamp64/www/Travail/test.php",
+		"/C/wamp64/www/Travail/Site-php/Site-php/views/login.php",
+		"/C/wamp64/www/Travail/Site-php/Site-php/views/Connexion.php",
+		"/C/wamp64/www/Travail/Site-php/Site-php/views/inscription.php",
+		"/C/wamp64/bin/apache/apache2.4.41/bin/php.ini",
+		"/C/Users/Martin/Documents/Travail/Site/css.css",
+		"/C/Users/Martin/Documents/Travail/Site/ModificationProfil.html",
+		"/C/Users/Martin/Documents/Travail/Site/CGU.html",
+		"/C/Users/Martin/Documents/Travail/Site/Profil.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "urls.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

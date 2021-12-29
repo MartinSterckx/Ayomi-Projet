@@ -1,0 +1,18 @@
+{% block title %}Si vous possédez déjà un compte{% endblock %}
+
+{% block content %}
+  <h2>Si vous possédez déjà un compte</h2>
+  
+      <form action = "informations/informations.html" method = "POST"> 
+          {% csrf_token %} 
+
+          {{ form.as_p }}
+
+          <input type = "submit" value = "Créer un compte" />
+      </form>
+          <td>&nbsp;</td>
+          <td><input type="submit" value="Submit"></td>
+        </tr>                
+      </table>
+    </form>
+{% endblock %}
